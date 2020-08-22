@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 前言
 
-You can use the [editor on GitHub](https://github.com/IreneaYoung/seo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SEO还有前途吗？从我入职这家公司以来，基本上每年都会被贩卖这种焦虑。说实话，一个做SEOer，竟然不会自己搭建网站，说起来还是有点丢人的。在网上折腾了好一阵子了，但是还是没有想明白整个搭建是个什么样的流程。
+为什么会在这里记录呢？
+可能是天意吧，因为我现在也不太会用这个东西。
+那就先瞎折腾吧。
+比如说我现在还不知道怎么插入图片，好尴尬噢
 
 ### Markdown
 
